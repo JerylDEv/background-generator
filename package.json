@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JerylDEv/background-generator/issues"
   },
-  "homepage": "https://github.com/JerylDEv/background-generator#readme"
+  "homepage": "https://github.com/JerylDEv/background-generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
